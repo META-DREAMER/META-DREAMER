@@ -10,3 +10,11 @@
   <p><strong>Solana:</strong> <code>AX9WTNr48CKbPYkto8eFtV54LnNtNBKV1eyPEh6qtp6N</code></p>
 </div>
 <!-- END ELIZAOS_PROFILE_WALLETS -->
+<!-- ELIZAOS_PROFILE_WALLETS_HIDDEN_BEGIN -->
+<!-- ElizaOS Wallet Information (Do not edit manually)
+  <div id="elizaos-linked-wallets">
+    <p><strong>Ethereum:</strong> <code>0x8F942ECED007bD3976927B7958B50Df126FEeCb5</code></p>
+    <p><strong>Solana:</strong> <code>AX9WTNr48CKbPYkto8eFtV54LnNtNBKV1eyPEh6qtp6N</code></p>
+  </div>
+-->
+<!-- ELIZAOS_PROFILE_WALLETS_HIDDEN_END -->
